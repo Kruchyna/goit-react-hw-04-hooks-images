@@ -1,5 +1,5 @@
 export class Api {
-  #API_KEY = "24136877-bceaa9033dc460acdc4ccde64";
+  #API_KEY = "24298698-47064084c0db11de593fd01c5";
   #BASE_API_URL = "https://pixabay.com/api/";
 
   constructor(notFoundImageUrl) {
